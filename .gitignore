@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/Apps/MVP/obj
+/src/Layers/Business/obj
+/src/Layers/Contracts/obj
+/src/Layers/Domain/obj
+/src/Apps/MVP/bin/Debug/net6.0
+/src/Layers/Business/bin/Debug/net6.0
+/src/Layers/Contracts/bin/Debug/net6.0
+/src/Layers/Domain/bin/Debug/net6.0
